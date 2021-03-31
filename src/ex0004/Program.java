@@ -1,4 +1,4 @@
-package ex4;
+package ex0004;
 
 import java.util.Arrays;
 
