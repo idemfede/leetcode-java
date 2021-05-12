@@ -1,4 +1,4 @@
-package ex705;
+package ex0705;
 
 import java.util.Arrays;
 
